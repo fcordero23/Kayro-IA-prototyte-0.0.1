@@ -1,0 +1,9 @@
+2026-03-21 23:03:37.840875 | USER: que puedo usar para crear historias de ciencia ficcion
+2026-03-21 23:03:38.979993 | AI: Error: {
+  "error": {
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+    "type": "insufficient_quota",
+    "param": null,
+    "code": "insufficient_quota"
+  }
+}
