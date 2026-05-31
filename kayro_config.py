@@ -1,4 +1,4 @@
 # kayro_config.py
 
-OPENAI_API_KEY = "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"
-MODEL = "gpt-5.4"
+
+
